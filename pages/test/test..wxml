@@ -1,0 +1,5 @@
+<!--pages/test/test..wxml-->
+<text class="test">这是一个测试页面</text>
+<text>{{num}}</text>
+<text>{{count}}</text>
+<button type='primary' bindtap='testTap'>测试</button>

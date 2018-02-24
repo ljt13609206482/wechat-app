@@ -1,0 +1,9 @@
+<!--pages/weather/weather.wxml-->
+<view class='title'>查询城市天气信息</view>
+<view>
+  <text>{{weather}}</text>
+  <!--添加表单控件  -->
+  <input placeholder='请输入城市' bindinput='getCity'></input>
+  <button bindtap='getWeather' type='primary'>查询天气</button>
+</view>
+

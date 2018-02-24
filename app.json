@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/weather/weather",
+    "pages/test/test.",
+    "pages/index/index",
+    "pages/logs/logs"
+  
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black"
+  }
+}
